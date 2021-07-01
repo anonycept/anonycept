@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello World,
+## I am a person who wants to eventually contribute to the linux repository in the far future
 
-<!--
-**anonycept/anonycept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Studying:
++ C
++ Qt
++ C++
++ Rust
+### Re-learning:
++ Python
++ Java (maybe)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
